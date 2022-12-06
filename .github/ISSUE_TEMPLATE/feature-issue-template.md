@@ -4,7 +4,6 @@ about: 프로젝트 기능 개발 이슈 템플릿
 title: ''
 labels: ''
 assignees: Supergrammer
-
 ---
 
 ***
@@ -31,6 +30,7 @@ assignees: Supergrammer
 ### 📚 참고 (Reference) :
 
 > 여기에 참고 문헌, 링크 등을 첨부하세요.
+
 ***
 ### ✏️ 처리 내용
 
